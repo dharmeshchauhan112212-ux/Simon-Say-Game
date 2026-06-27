@@ -106,7 +106,7 @@ During this project, I improved my understanding of:
 Aspiring Full Stack Web Developer passionate about creating interactive and user-friendly web applications.
 
 * GitHub: https://github.com/dharmeshchauhan112212-ux
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: https://www.linkedin.com/in/dharmesh-chauhan-cte-gecbvn-ce-38ab2a353/
 
 ---
 
