@@ -71,7 +71,7 @@ function check(idx) {
 
     }
     else {
-        h2.innerHTML = `Game over! your score was <b>${level-1}.</b> <br>press any key to Restart..`;
+        h2.innerHTML = `Game over! your score was <b>${level-1}.</b> <br>Restart the Game..`;
         document.querySelector("body").style.backgroundColor = "red" ;
         setTimeout(function(){
              document.querySelector("body").style.backgroundColor = "white" ;
