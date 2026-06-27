@@ -8,7 +8,7 @@ It was developed to strengthen my understanding of JavaScript fundamentals, incl
 
 ## 🚀 Live Demo
 
-🌐 **Live Demo:** *Coming Soon*
+🌐  https://dharmeshchauhan112212-ux.github.io/Simon-Say-Game/
 
 ---
 
